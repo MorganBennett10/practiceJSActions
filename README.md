@@ -79,7 +79,7 @@ _In our case, we will use this one **workflow** file for many things, which lead
 
 Read more about [workflows](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#choosing-the-type-of-actions-for-your-workflow)
 
-<details id=1>
+<details id=1 open>
 
 <summary><strong> Step 1: Initialize a new JavaScript project</strong></summary>
 
